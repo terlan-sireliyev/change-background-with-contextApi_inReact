@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+.ChangeBK{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.pClas{
+    color: red;
+}
+.spanClas{
+    color: black;
+}
